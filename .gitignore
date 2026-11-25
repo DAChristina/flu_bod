@@ -24,7 +24,7 @@ raw_data/
 inputs/
 outputs/
 pictures/
-global/
+# global/
 renv/
 report/
 .positai
